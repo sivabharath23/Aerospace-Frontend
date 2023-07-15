@@ -1,0 +1,31 @@
+.fab-icon
+{
+    color:rgb(101, 100, 100)
+}
+
+.fab-icon:hover{ 
+    color:#AA9440;
+    transition: 0.5s ease;
+}
+
+/* .head-sec{
+    background-color: rgba(255, 255, 255, 0.789);
+} */
+
+/* .head-menu{
+    background-color: #a9943e4b;
+} */
+
+a{
+    color:black;
+}
+
+.head-menu a:hover{
+    color:#AA9440;
+    transition: 0.3s ease;
+}
+
+.present a{
+    font-weight: bold;
+    color: #ffffff;
+}

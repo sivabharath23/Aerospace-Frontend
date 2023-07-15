@@ -1,0 +1,36 @@
+/* Adjustments for smaller screens */
+@media screen and (max-width: 768px) {
+    .head-sec {
+      height: auto;
+    }
+  
+    .head-sec img {
+      padding-left: 20px;
+      height: 60px;
+      width: 60px;
+    }
+  
+    .main-header-social-media {
+      display: block;
+      padding: 10px 20px;
+      text-align: right;
+      float: none;
+    }
+  
+    .fab-icon {
+      margin-right: 5px;
+      font-size: 20px;
+      padding: 5px;
+    }
+  
+    .head-menu ul {
+      padding: 12px 0px 12px 20px;
+    }
+  
+    .head-menu li {
+      display: block;
+      padding: 10px 15px;
+    }
+  }
+ 
+  
