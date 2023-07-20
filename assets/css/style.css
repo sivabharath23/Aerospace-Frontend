@@ -20,6 +20,7 @@ ul{
 }
 
 
+
 /* ---------------------------------------------------------------------------------
                                     Main-Head
 ----------------------------------------------------------------------------------- */
@@ -197,7 +198,7 @@ ul{
 
 .contact-container{
     float:right;
-   margin-right: 100px;
+   margin-right: 200px;
     display: inline;
     margin-top:-135px;
 }
@@ -222,7 +223,7 @@ ul{
 
 .Foot-service{
     float:right;
-    margin-right: 550px;
+    margin-right: 680px;
 }
 
 .Foot-copyright{
@@ -231,7 +232,7 @@ ul{
    text-align: center;
 }
 .Foot-copyright p{
-    padding:5px 0px;
+    padding:20px 0px;
 }
 
 
