@@ -1,6 +1,6 @@
 .fab-icon
 {
-    color:rgb(101, 100, 100)
+    color:rgb(205 201 201);
 }
 
 .fab-icon:hover{ 
@@ -27,5 +27,9 @@ a{
 
 .present a{
     font-weight: bold;
-    color: #ffffff;
+    color: #AA9440;
+}
+
+footer .fab-icon{
+     color:#797979;
 }
